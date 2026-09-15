@@ -1,0 +1,31 @@
+﻿sale_date,customer_name,product_name,category,quantity,unit_price,payment_method
+05-01-2026,Rahul Sharma,Laptop,Electronics,1,55000,UPI
+08-01-2026,Priya Patil,Smartphone,Electronics,2,25000,Credit Card
+12-01-2026,Amit Kumar,Headphones,Electronics,3,2500,Cash
+18-01-2026,Sneha Joshi,Office Chair,Furniture,2,8500,UPI
+25-01-2026,Vikas More,Keyboard,Accessories,4,1500,Debit Card
+03-02-2026,Rahul Sharma,Smartphone,Electronics,1,25000,UPI
+10-02-2026,Priya Patil,Laptop,Electronics,1,55000,Credit Card
+15-02-2026,Amit Kumar,Headphones,Electronics,5,2500,Cash
+22-02-2026,Sneha Joshi,Keyboard,Accessories,3,1500,UPI
+28-02-2026,Vikas More,Office Chair,Furniture,1,8500,Debit Card
+05-03-2026,Rahul Sharma,Laptop,Electronics,2,55000,Credit Card
+11-03-2026,Priya Patil,Headphones,Electronics,4,2500,UPI
+18-03-2026,Amit Kumar,Smartphone,Electronics,2,25000,Debit Card
+24-03-2026,Sneha Joshi,Office Chair,Furniture,2,8500,Cash
+30-03-2026,Vikas More,Keyboard,Accessories,5,1500,UPI
+04-04-2026,Rahul Sharma,Smartphone,Electronics,1,25000,UPI
+09-04-2026,Priya Patil,Laptop,Electronics,2,55000,Credit Card
+16-04-2026,Amit Kumar,Headphones,Electronics,2,2500,Cash
+21-04-2026,Sneha Joshi,Keyboard,Accessories,4,1500,UPI
+29-04-2026,Vikas More,Office Chair,Furniture,1,8500,Debit Card
+06-05-2026,Rahul Sharma,Laptop,Electronics,1,55000,UPI
+12-05-2026,Priya Patil,Smartphone,Electronics,2,25000,Credit Card
+17-05-2026,Amit Kumar,Keyboard,Accessories,6,1500,Cash
+23-05-2026,Sneha Joshi,Headphones,Electronics,3,2500,UPI
+29-05-2026,Vikas More,Office Chair,Furniture,2,8500,Debit Card
+04-06-2026,Rahul Sharma,Smartphone,Electronics,1,25000,UPI
+10-06-2026,Priya Patil,Laptop,Electronics,1,55000,Credit Card
+16-06-2026,Amit Kumar,Headphones,Electronics,4,2500,Cash
+22-06-2026,Sneha Joshi,Keyboard,Accessories,5,1500,UPI
+28-06-2026,Vikas More,Office Chair,Furniture,1,8500,Debit Card
